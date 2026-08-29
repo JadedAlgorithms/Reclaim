@@ -1,302 +1,306 @@
-transaction_id,customer_id,amount,status
-transaction-1,customer-1,24.5,failed
-transaction-2,customer-2,64.08,failed
-transaction-3,customer-2,45.12,failed
-transaction-4,customer-2,38.45,failed
-transaction-5,customer-3,35.65,failed
-transaction-6,customer-3,95.95,failed
-transaction-7,customer-3,25.36,failed
-transaction-8,customer-3,59.35,failed
-transaction-9,customer-3,110.96,failed
-transaction-10,customer-4,121.02,failed
-transaction-11,customer-5,95.51,failed
-transaction-12,customer-5,100.86,failed
-transaction-13,customer-5,70.07,failed
-transaction-14,customer-5,176.47,failed
-transaction-15,customer-5,156.59,failed
-transaction-16,customer-6,145.67,failed
-transaction-17,customer-6,81.25,failed
-transaction-18,customer-7,58.76,failed
-transaction-19,customer-7,157.43,failed
-transaction-20,customer-8,36.69,failed
-transaction-21,customer-9,84.62,failed
-transaction-22,customer-10,128.67,failed
-transaction-23,customer-10,165.28,failed
-transaction-24,customer-10,151.35,failed
-transaction-25,customer-11,42.47,failed
-transaction-26,customer-11,186.01,failed
-transaction-27,customer-11,34.18,failed
-transaction-28,customer-11,72.77,failed
-transaction-29,customer-11,133.16,failed
-transaction-30,customer-12,123.92,failed
-transaction-31,customer-12,146.82,failed
-transaction-32,customer-12,28.25,failed
-transaction-33,customer-13,159.15,failed
-transaction-34,customer-13,197.34,failed
-transaction-35,customer-14,175.97,failed
-transaction-36,customer-14,88.42,failed
-transaction-37,customer-15,134.42,failed
-transaction-38,customer-15,85.67,failed
-transaction-39,customer-15,86.63,failed
-transaction-40,customer-15,57.71,failed
-transaction-41,customer-16,146.33,failed
-transaction-42,customer-16,143.04,failed
-transaction-43,customer-16,32.85,failed
-transaction-44,customer-17,116.15,failed
-transaction-45,customer-17,64.07,failed
-transaction-46,customer-18,88.3,failed
-transaction-47,customer-18,198.11,failed
-transaction-48,customer-18,135.2,failed
-transaction-49,customer-18,120.25,failed
-transaction-50,customer-19,171.71,failed
-transaction-51,customer-19,159.68,failed
-transaction-52,customer-19,61.23,failed
-transaction-53,customer-20,164.91,failed
-transaction-54,customer-21,68.19,failed
-transaction-55,customer-21,57.98,failed
-transaction-56,customer-21,189.72,failed
-transaction-57,customer-21,177.75,failed
-transaction-58,customer-22,58.27,failed
-transaction-59,customer-22,109.86,failed
-transaction-60,customer-22,179.24,failed
-transaction-61,customer-23,45.72,failed
-transaction-62,customer-23,45.13,failed
-transaction-63,customer-23,154.1,failed
-transaction-64,customer-23,117.02,failed
-transaction-65,customer-24,97.12,failed
-transaction-66,customer-24,125.04,failed
-transaction-67,customer-24,85.16,failed
-transaction-68,customer-24,199.52,failed
-transaction-69,customer-24,44.9,failed
-transaction-70,customer-25,36.36,failed
-transaction-71,customer-25,28.48,failed
-transaction-72,customer-25,39.74,failed
-transaction-73,customer-25,132.94,failed
-transaction-74,customer-26,127.35,failed
-transaction-75,customer-26,89.26,failed
-transaction-76,customer-26,127.26,failed
-transaction-77,customer-26,104.25,failed
-transaction-78,customer-27,194.79,failed
-transaction-79,customer-27,174.94,failed
-transaction-80,customer-27,22.07,failed
-transaction-81,customer-28,142.71,failed
-transaction-82,customer-29,155.16,failed
-transaction-83,customer-29,158.35,failed
-transaction-84,customer-29,81.23,failed
-transaction-85,customer-29,72.83,failed
-transaction-86,customer-29,48.47,failed
-transaction-87,customer-30,191.69,failed
-transaction-88,customer-31,194.94,failed
-transaction-89,customer-31,157.15,failed
-transaction-90,customer-31,111.38,failed
-transaction-91,customer-32,176.69,failed
-transaction-92,customer-33,171.5,failed
-transaction-93,customer-33,111.38,failed
-transaction-94,customer-33,55.8,failed
-transaction-95,customer-34,157.25,failed
-transaction-96,customer-34,117.09,failed
-transaction-97,customer-34,160.15,failed
-transaction-98,customer-35,185.33,failed
-transaction-99,customer-35,127.81,failed
-transaction-100,customer-35,107.95,failed
-transaction-101,customer-35,40.14,failed
-transaction-102,customer-35,85.34,failed
-transaction-103,customer-36,63.1,failed
-transaction-104,customer-36,63.36,failed
-transaction-105,customer-36,122.12,failed
-transaction-106,customer-37,35.42,failed
-transaction-107,customer-38,166.88,failed
-transaction-108,customer-38,196.04,failed
-transaction-109,customer-38,115.89,failed
-transaction-110,customer-38,42.64,failed
-transaction-111,customer-39,190.43,failed
-transaction-112,customer-39,49.72,failed
-transaction-113,customer-39,114.98,failed
-transaction-114,customer-39,129.19,failed
-transaction-115,customer-40,187.2,failed
-transaction-116,customer-40,155.95,failed
-transaction-117,customer-41,148.33,failed
-transaction-118,customer-41,91.82,failed
-transaction-119,customer-42,98.86,failed
-transaction-120,customer-42,113.16,failed
-transaction-121,customer-42,41.78,failed
-transaction-122,customer-43,31.52,failed
-transaction-123,customer-43,23.79,failed
-transaction-124,customer-44,61.42,failed
-transaction-125,customer-44,59.64,failed
-transaction-126,customer-44,32.78,failed
-transaction-127,customer-44,133.6,failed
-transaction-128,customer-44,61.21,failed
-transaction-129,customer-45,174.73,failed
-transaction-130,customer-46,112.55,failed
-transaction-131,customer-47,140.42,failed
-transaction-132,customer-47,58.56,failed
-transaction-133,customer-47,43.82,failed
-transaction-134,customer-48,123.72,failed
-transaction-135,customer-48,63.74,failed
-transaction-136,customer-48,105.14,failed
-transaction-137,customer-48,93.27,failed
-transaction-138,customer-48,36.98,failed
-transaction-139,customer-49,83.77,failed
-transaction-140,customer-49,94.0,failed
-transaction-141,customer-49,175.49,failed
-transaction-142,customer-49,29.75,failed
-transaction-143,customer-50,30.91,failed
-transaction-144,customer-51,164.11,failed
-transaction-145,customer-51,39.67,failed
-transaction-146,customer-51,54.49,failed
-transaction-147,customer-52,100.75,failed
-transaction-148,customer-52,95.94,failed
-transaction-149,customer-52,70.14,failed
-transaction-150,customer-52,64.97,failed
-transaction-151,customer-52,186.19,failed
-transaction-152,customer-53,165.44,failed
-transaction-153,customer-53,174.07,failed
-transaction-154,customer-53,37.62,failed
-transaction-155,customer-53,137.39,failed
-transaction-156,customer-54,170.48,failed
-transaction-157,customer-54,194.42,failed
-transaction-158,customer-54,186.75,failed
-transaction-159,customer-54,172.77,failed
-transaction-160,customer-54,49.94,failed
-transaction-161,customer-55,106.64,failed
-transaction-162,customer-55,175.64,failed
-transaction-163,customer-55,182.44,failed
-transaction-164,customer-55,49.63,failed
-transaction-165,customer-56,197.36,failed
-transaction-166,customer-57,186.77,failed
-transaction-167,customer-57,161.32,failed
-transaction-168,customer-57,71.34,failed
-transaction-169,customer-58,139.14,failed
-transaction-170,customer-58,107.6,failed
-transaction-171,customer-58,54.18,failed
-transaction-172,customer-58,59.19,failed
-transaction-173,customer-58,30.53,failed
-transaction-174,customer-59,30.97,failed
-transaction-175,customer-59,76.45,failed
-transaction-176,customer-59,29.03,failed
-transaction-177,customer-59,105.82,failed
-transaction-178,customer-59,185.49,failed
-transaction-179,customer-60,48.34,failed
-transaction-180,customer-60,192.94,failed
-transaction-181,customer-60,34.42,failed
-transaction-182,customer-60,53.45,failed
-transaction-183,customer-60,127.11,failed
-transaction-184,customer-61,92.68,failed
-transaction-185,customer-61,189.49,failed
-transaction-186,customer-62,64.32,failed
-transaction-187,customer-62,127.01,failed
-transaction-188,customer-62,131.49,failed
-transaction-189,customer-62,95.46,failed
-transaction-190,customer-62,125.06,failed
-transaction-191,customer-63,76.95,failed
-transaction-192,customer-63,66.94,failed
-transaction-193,customer-63,140.55,failed
-transaction-194,customer-63,76.55,failed
-transaction-195,customer-63,67.81,failed
-transaction-196,customer-64,140.9,failed
-transaction-197,customer-64,74.0,failed
-transaction-198,customer-65,187.22,failed
-transaction-199,customer-65,188.43,failed
-transaction-200,customer-65,21.68,failed
-transaction-201,customer-66,199.72,failed
-transaction-202,customer-66,199.3,failed
-transaction-203,customer-66,33.19,failed
-transaction-204,customer-66,58.37,failed
-transaction-205,customer-66,67.74,failed
-transaction-206,customer-67,178.56,failed
-transaction-207,customer-67,178.27,failed
-transaction-208,customer-67,86.51,failed
-transaction-209,customer-68,98.87,failed
-transaction-210,customer-68,117.78,failed
-transaction-211,customer-69,130.1,failed
-transaction-212,customer-69,197.7,failed
-transaction-213,customer-69,137.72,failed
-transaction-214,customer-70,140.22,failed
-transaction-215,customer-71,73.89,failed
-transaction-216,customer-71,139.41,failed
-transaction-217,customer-71,189.01,failed
-transaction-218,customer-71,44.17,failed
-transaction-219,customer-71,40.78,failed
-transaction-220,customer-72,153.64,failed
-transaction-221,customer-73,69.02,failed
-transaction-222,customer-73,128.87,failed
-transaction-223,customer-74,56.65,failed
-transaction-224,customer-74,134.16,failed
-transaction-225,customer-74,67.52,failed
-transaction-226,customer-75,65.2,failed
-transaction-227,customer-75,183.47,failed
-transaction-228,customer-75,29.14,failed
-transaction-229,customer-75,134.17,failed
-transaction-230,customer-76,27.94,failed
-transaction-231,customer-76,80.04,failed
-transaction-232,customer-76,43.55,failed
-transaction-233,customer-77,49.08,failed
-transaction-234,customer-77,99.53,failed
-transaction-235,customer-77,147.02,failed
-transaction-236,customer-78,21.74,failed
-transaction-237,customer-78,33.54,failed
-transaction-238,customer-78,178.96,failed
-transaction-239,customer-78,182.71,failed
-transaction-240,customer-78,118.21,failed
-transaction-241,customer-79,124.85,failed
-transaction-242,customer-79,46.66,failed
-transaction-243,customer-79,42.94,failed
-transaction-244,customer-80,85.64,failed
-transaction-245,customer-80,187.96,failed
-transaction-246,customer-80,195.0,failed
-transaction-247,customer-81,181.81,failed
-transaction-248,customer-82,142.77,failed
-transaction-249,customer-82,140.05,failed
-transaction-250,customer-83,160.42,failed
-transaction-251,customer-83,179.14,failed
-transaction-252,customer-83,93.15,failed
-transaction-253,customer-84,154.91,failed
-transaction-254,customer-84,186.64,failed
-transaction-255,customer-84,62.61,failed
-transaction-256,customer-84,49.25,failed
-transaction-257,customer-84,163.98,failed
-transaction-258,customer-85,178.65,failed
-transaction-259,customer-85,24.46,failed
-transaction-260,customer-86,160.83,failed
-transaction-261,customer-86,94.11,failed
-transaction-262,customer-86,140.58,failed
-transaction-263,customer-87,68.03,failed
-transaction-264,customer-87,161.73,failed
-transaction-265,customer-88,88.86,failed
-transaction-266,customer-89,174.55,failed
-transaction-267,customer-90,55.92,failed
-transaction-268,customer-90,185.32,failed
-transaction-269,customer-91,74.93,failed
-transaction-270,customer-91,163.16,failed
-transaction-271,customer-91,60.97,failed
-transaction-272,customer-92,138.81,failed
-transaction-273,customer-93,79.09,failed
-transaction-274,customer-93,175.58,failed
-transaction-275,customer-93,194.04,failed
-transaction-276,customer-93,70.24,failed
-transaction-277,customer-94,91.94,failed
-transaction-278,customer-94,196.61,failed
-transaction-279,customer-94,116.52,failed
-transaction-280,customer-94,189.06,failed
-transaction-281,customer-94,40.76,failed
-transaction-282,customer-95,52.14,failed
-transaction-283,customer-95,193.26,failed
-transaction-284,customer-95,67.78,failed
-transaction-285,customer-96,127.38,failed
-transaction-286,customer-97,151.14,failed
-transaction-287,customer-97,76.46,failed
-transaction-288,customer-97,129.12,failed
-transaction-289,customer-98,40.82,failed
-transaction-290,customer-98,181.91,failed
-transaction-291,customer-98,54.21,failed
-transaction-292,customer-98,27.99,failed
-transaction-293,customer-98,98.49,failed
-transaction-294,customer-99,186.6,failed
-transaction-295,customer-99,116.92,failed
-transaction-296,customer-99,149.5,failed
-transaction-297,customer-99,153.55,failed
-transaction-298,customer-99,140.71,failed
-transaction-299,customer-100,97.63,failed
-transaction-300,customer-100,190.8,failed
-transaction-301,customer-100,185.74,failed
+transaction_id,customer_id,amount,payment_method,failure_reason,timestamp,status
+ccda1606-d32a-4edb-85e0-d9f999a40f25,6ec5f2b4-0f13-45ee-a7f2-8ded4a83963f,7938.842,upi,insufficient_funds,2026-08-29 21:16:18.963378,failed
+aa2bfdaf-61d1-4097-80a2-f8638b6a46b2,6ec5f2b4-0f13-45ee-a7f2-8ded4a83963f,67260.697,upi,insufficient_funds,2026-08-29 21:16:18.963391,failed
+26be5144-df06-4121-823d-9029413a3996,1d3197a1-e16f-47c0-b16c-42c83266de49,6386.588,wallet,insufficient_funds,2026-08-29 21:16:18.963428,failed
+a5afe17c-85d7-4bf4-a8d5-8a452266d7d6,1d3197a1-e16f-47c0-b16c-42c83266de49,37613.192,wallet,insufficient_funds,2026-08-29 21:16:18.963432,failed
+f01a94d3-2aed-4e8f-baaf-362cbdbc2201,1d3197a1-e16f-47c0-b16c-42c83266de49,30967.041,wallet,insufficient_funds,2026-08-29 21:16:18.963435,failed
+86367896-5d18-4df1-97d6-893761c3233a,1d3197a1-e16f-47c0-b16c-42c83266de49,91688.558,wallet,upi_timeout,2026-08-29 21:16:18.963439,failed
+cb110fef-d95f-475f-a23a-512e0c1379ab,96a63a09-9015-42ef-b9e6-de9d533ba3aa,53856.5,upi,insufficient_funds,2026-08-29 21:16:18.963472,failed
+337fde1f-2767-4db1-80a1-5e817a7ed1ff,96a63a09-9015-42ef-b9e6-de9d533ba3aa,97631.915,upi,upi_timeout,2026-08-29 21:16:18.963475,failed
+1a855cad-793f-4fa2-86d1-4d23d25a28a4,96a63a09-9015-42ef-b9e6-de9d533ba3aa,10963.226,upi,insufficient_funds,2026-08-29 21:16:18.963478,failed
+90ba23de-d0fa-4e4a-b33b-6cd309b4b1dc,96a63a09-9015-42ef-b9e6-de9d533ba3aa,64345.791,upi,insufficient_funds,2026-08-29 21:16:18.963482,failed
+d0561ee3-49c5-4c40-9875-bc0e1ec7991c,c4e8cb98-2088-416a-a248-b5558b23d23f,50448.615,netbanking,upi_timeout,2026-08-29 21:16:18.963511,failed
+dbf4ad5d-16a0-49ae-aa20-86d54cbbbffe,c4e8cb98-2088-416a-a248-b5558b23d23f,51620.167,netbanking,upi_timeout,2026-08-29 21:16:18.963515,failed
+10ed9643-6625-4e3d-814c-f26532cc0e6c,c4e8cb98-2088-416a-a248-b5558b23d23f,99793.696,netbanking,upi_timeout,2026-08-29 21:16:18.963518,failed
+220f6677-7404-468c-88ac-9a2a60272e6c,c4e8cb98-2088-416a-a248-b5558b23d23f,6952.136,netbanking,insufficient_funds,2026-08-29 21:16:18.963521,failed
+55f907c2-5455-4b8c-9129-103dc33fa989,c4e8cb98-2088-416a-a248-b5558b23d23f,19139.342,netbanking,upi_timeout,2026-08-29 21:16:18.963524,failed
+d75829e9-c218-416c-a4aa-f0851aa5da82,7e7bb9e1-e2d0-4900-8219-588df5165d4f,82138.454,upi,insufficient_funds,2026-08-29 21:16:18.963561,failed
+1491009f-88f5-4350-9d77-efa85c2724c4,7e7bb9e1-e2d0-4900-8219-588df5165d4f,16699.474,upi,upi_timeout,2026-08-29 21:16:18.963564,failed
+9522e02f-abb7-4be1-babc-7139c6c1bacd,7e7bb9e1-e2d0-4900-8219-588df5165d4f,30590.566,upi,insufficient_funds,2026-08-29 21:16:18.963567,failed
+e8a123af-4271-4ba2-bb98-0b2262981c37,089d91e2-7ad2-4b99-bb00-36dee089adc3,30021.44,upi,insufficient_funds,2026-08-29 21:16:18.963590,failed
+f120ddff-02aa-411b-b063-7c85c3a6a916,8ba41b22-eac3-48ef-87b0-24df3bbf56b8,88495.138,wallet,upi_timeout,2026-08-29 21:16:18.963598,failed
+501a8372-29d8-48e6-81cb-19ce127635da,8ba41b22-eac3-48ef-87b0-24df3bbf56b8,25167.718,wallet,insufficient_funds,2026-08-29 21:16:18.963601,failed
+eac0eb74-d061-4735-a0a6-d9c0bda39ea7,d67c4e7a-d1f8-4707-b646-a09fb2b8390b,84868.754,card,insufficient_funds,2026-08-29 21:16:18.963619,failed
+779fd42d-a2f1-439a-8870-8457e6e2b50e,d67c4e7a-d1f8-4707-b646-a09fb2b8390b,17776.169,card,insufficient_funds,2026-08-29 21:16:18.963621,failed
+39dcc24b-f2d9-4ed4-b4c2-ae8f7c233716,d67c4e7a-d1f8-4707-b646-a09fb2b8390b,59223.59,card,upi_timeout,2026-08-29 21:16:18.963624,failed
+07891567-7f93-4c9f-a567-0f0a8094fcac,d67c4e7a-d1f8-4707-b646-a09fb2b8390b,4620.068,card,upi_timeout,2026-08-29 21:16:18.963628,failed
+5c35ad99-482b-4779-b28a-f467fa186093,d67c4e7a-d1f8-4707-b646-a09fb2b8390b,83842.042,card,upi_timeout,2026-08-29 21:16:18.963630,failed
+7653ca21-ff09-4bc0-814d-050445acac30,b56e48cb-5ad9-4829-aef9-937990b2cb8e,55399.848,wallet,insufficient_funds,2026-08-29 21:16:18.963674,failed
+0f63ff18-1315-4e45-98f5-36e364051feb,b56e48cb-5ad9-4829-aef9-937990b2cb8e,3060.67,wallet,upi_timeout,2026-08-29 21:16:18.963677,failed
+eb905f45-fa9f-4999-af92-97e754b609b7,b56e48cb-5ad9-4829-aef9-937990b2cb8e,11865.247,wallet,insufficient_funds,2026-08-29 21:16:18.963680,failed
+a3b66ea8-f24a-4f59-82e9-5a457dd426d5,b56e48cb-5ad9-4829-aef9-937990b2cb8e,97011.67,wallet,upi_timeout,2026-08-29 21:16:18.963683,failed
+7aac14ef-0471-4b31-9669-5a9805455ade,b56e48cb-5ad9-4829-aef9-937990b2cb8e,23728.663,wallet,insufficient_funds,2026-08-29 21:16:18.963686,failed
+6979e443-da4a-4191-8421-d5b53fcfa8e0,93c71f30-3ae5-401a-aa2f-fb94569563b3,29963.311,upi,insufficient_funds,2026-08-29 21:16:18.963735,failed
+a46e41fd-465b-415f-8948-c74a13740704,93c71f30-3ae5-401a-aa2f-fb94569563b3,94768.563,upi,upi_timeout,2026-08-29 21:16:18.963738,failed
+94406c35-a2b6-418f-8258-e711e22ae6ec,93c71f30-3ae5-401a-aa2f-fb94569563b3,6046.416,upi,insufficient_funds,2026-08-29 21:16:18.963741,failed
+abe4d817-9563-4d0a-b882-e53e1ab4a504,93c71f30-3ae5-401a-aa2f-fb94569563b3,54286.041,upi,insufficient_funds,2026-08-29 21:16:18.963744,failed
+bbb58a40-c37f-45f6-998b-5a807a67b6a9,93c71f30-3ae5-401a-aa2f-fb94569563b3,56202.171,upi,upi_timeout,2026-08-29 21:16:18.963747,failed
+9de29cba-11e4-4400-ae64-fa068214118d,8c436db2-a7f0-4552-9ede-c62ff342f863,62551.351,upi,insufficient_funds,2026-08-29 21:16:18.963779,failed
+96b74486-f3e8-43d5-b1fb-16750e62702c,8c436db2-a7f0-4552-9ede-c62ff342f863,13292.719,upi,insufficient_funds,2026-08-29 21:16:18.963782,failed
+58896e92-250f-4578-870e-dbc3c94e42ff,8c436db2-a7f0-4552-9ede-c62ff342f863,21151.371,upi,upi_timeout,2026-08-29 21:16:18.963785,failed
+2a2bf372-5eef-4f33-8dc0-68bb5bab7a5e,8c436db2-a7f0-4552-9ede-c62ff342f863,86592.588,upi,upi_timeout,2026-08-29 21:16:18.963788,failed
+7cbfe576-e9a0-4bc9-a3ae-35ac53c95fd6,8c436db2-a7f0-4552-9ede-c62ff342f863,66031.075,upi,insufficient_funds,2026-08-29 21:16:18.963791,failed
+8b79c965-83a4-45de-8ccf-e72279df24c5,09030471-9e2b-424c-854f-cc3716de8046,15951.349,netbanking,insufficient_funds,2026-08-29 21:16:18.963834,failed
+354b0136-4744-46dd-b00e-4f8fcea81629,09030471-9e2b-424c-854f-cc3716de8046,95096.066,netbanking,insufficient_funds,2026-08-29 21:16:18.963839,failed
+ffb3c243-f84b-4618-aa48-21a678498c44,666798af-3bed-4f6a-8750-cdd01c44e5a8,72534.614,netbanking,insufficient_funds,2026-08-29 21:16:18.963857,failed
+99110c2d-f82e-4d71-85db-4d773cbd7e27,666798af-3bed-4f6a-8750-cdd01c44e5a8,69861.61,netbanking,upi_timeout,2026-08-29 21:16:18.963861,failed
+2c109bb9-247e-4dfe-8225-6de336e8bb07,666798af-3bed-4f6a-8750-cdd01c44e5a8,38334.648,netbanking,upi_timeout,2026-08-29 21:16:18.963864,failed
+fb72ddc1-0d4f-4566-84e8-7b0f5476420a,dc5b4be6-e791-42d5-ab99-09437e2d08d5,99811.12,card,insufficient_funds,2026-08-29 21:16:18.963910,failed
+90ea836c-1afd-45b9-98d7-7ba00bd34b3a,dc5b4be6-e791-42d5-ab99-09437e2d08d5,31102.817,card,insufficient_funds,2026-08-29 21:16:18.963914,failed
+4544cf35-573a-4b59-8a30-28e7a57a38cf,dc5b4be6-e791-42d5-ab99-09437e2d08d5,83388.054,card,upi_timeout,2026-08-29 21:16:18.963917,failed
+c61ecef4-e4c1-446f-9829-0157f4efd0a0,dc5b4be6-e791-42d5-ab99-09437e2d08d5,52196.794,card,upi_timeout,2026-08-29 21:16:18.963920,failed
+f628e1b2-4fc2-42f1-b74f-ca32235ff87a,6d3833c2-d155-47dc-9b22-c29974394b4e,31678.168,netbanking,insufficient_funds,2026-08-29 21:16:18.963950,failed
+f6caa394-31d4-4694-b278-cc003480ba23,6d3833c2-d155-47dc-9b22-c29974394b4e,23868.078,netbanking,insufficient_funds,2026-08-29 21:16:18.963953,failed
+b25c6e19-17fa-4746-be22-2ea01ea35fc6,6d3833c2-d155-47dc-9b22-c29974394b4e,16114.605,netbanking,insufficient_funds,2026-08-29 21:16:18.963956,failed
+7dc41370-6a2e-466e-a799-727f0035539c,6d3833c2-d155-47dc-9b22-c29974394b4e,78244.788,netbanking,upi_timeout,2026-08-29 21:16:18.963959,failed
+94f5eac8-8323-4f91-9d85-925777e82673,6d3833c2-d155-47dc-9b22-c29974394b4e,38944.178,netbanking,insufficient_funds,2026-08-29 21:16:18.963962,failed
+847a5309-47b0-421c-baa8-45f75e5bfe49,948a5a5b-2c02-4397-be2f-5f5171219ef9,77055.879,netbanking,upi_timeout,2026-08-29 21:16:18.964011,failed
+9f152c3b-4af8-4a46-bd5d-da05175845a7,276478f7-9532-484b-94cd-f940b1b0c016,19145.88,wallet,upi_timeout,2026-08-29 21:16:18.964026,failed
+2a0c41f5-41d1-46e0-b59f-f9dbe99913b3,276478f7-9532-484b-94cd-f940b1b0c016,34100.745,wallet,upi_timeout,2026-08-29 21:16:18.964029,failed
+24d3e3a9-9e1d-4eeb-b3d6-05c863bcf51a,276478f7-9532-484b-94cd-f940b1b0c016,26720.297,wallet,insufficient_funds,2026-08-29 21:16:18.964032,failed
+33b13923-ebbc-416a-96ce-bf9ce694f1bf,276478f7-9532-484b-94cd-f940b1b0c016,59758.436,wallet,insufficient_funds,2026-08-29 21:16:18.964035,failed
+d27ffd73-28c8-49b7-aa8c-0ef1e5656cd2,e8b0cecf-4030-425b-ab6b-4c27c4efa3e0,82778.568,card,insufficient_funds,2026-08-29 21:16:18.964067,failed
+ecf3f364-88e1-4372-891a-7952eca29052,e8b0cecf-4030-425b-ab6b-4c27c4efa3e0,95839.313,card,upi_timeout,2026-08-29 21:16:18.964070,failed
+afa50db9-7c15-4dbc-bc53-ebac056189de,e8b0cecf-4030-425b-ab6b-4c27c4efa3e0,18043.87,card,upi_timeout,2026-08-29 21:16:18.964073,failed
+f5e3684f-b985-4201-b505-eb4e38f654e7,e8b0cecf-4030-425b-ab6b-4c27c4efa3e0,45925.735,card,insufficient_funds,2026-08-29 21:16:18.964076,failed
+287cc993-40d5-4b51-994e-7be451c3e29d,31acb1ae-c437-4079-9b33-ae76b2b00c39,39231.858,wallet,insufficient_funds,2026-08-29 21:16:18.964102,failed
+95fe1fb8-62e2-477e-8df8-6dfdc791399f,31acb1ae-c437-4079-9b33-ae76b2b00c39,31370.345,wallet,upi_timeout,2026-08-29 21:16:18.964105,failed
+86a8baf1-8a6d-4636-93a0-3654ff37157d,a6740ea8-e7d7-4fe3-8372-74c9f59d360d,67458.11,wallet,upi_timeout,2026-08-29 21:16:18.964130,failed
+ba19ff42-a26a-4f78-a16a-9274220f6926,a6740ea8-e7d7-4fe3-8372-74c9f59d360d,68185.334,wallet,insufficient_funds,2026-08-29 21:16:18.964134,failed
+4843af4a-b95f-44cf-acdc-3b0efbb7fb09,a6740ea8-e7d7-4fe3-8372-74c9f59d360d,48013.91,wallet,upi_timeout,2026-08-29 21:16:18.964137,failed
+eb55c6a7-f40f-4ab5-b0b0-00f9113ca794,893899b7-a15f-41e6-869f-fa1f2b7e9fc4,39105.09,upi,upi_timeout,2026-08-29 21:16:18.964163,failed
+145d1015-293c-437a-9bfb-7c40461ed57f,893899b7-a15f-41e6-869f-fa1f2b7e9fc4,37523.037,upi,upi_timeout,2026-08-29 21:16:18.964166,failed
+e4aa7f92-fe0f-4ebe-9fb4-3c4fea15fbc4,893899b7-a15f-41e6-869f-fa1f2b7e9fc4,59063.813,upi,upi_timeout,2026-08-29 21:16:18.964169,failed
+0c796494-d624-4b07-8b02-39aa8b137485,893899b7-a15f-41e6-869f-fa1f2b7e9fc4,18360.988,upi,insufficient_funds,2026-08-29 21:16:18.964172,failed
+42687318-3a74-42af-b77d-632925b4f210,4addcbc9-ffe6-4cdc-8fd9-74ae4ded8140,2940.81,card,insufficient_funds,2026-08-29 21:16:18.964214,failed
+b7743cce-42be-4098-8ec3-731ee295a0a7,4addcbc9-ffe6-4cdc-8fd9-74ae4ded8140,46693.54,card,insufficient_funds,2026-08-29 21:16:18.964217,failed
+6d6ea717-9f69-465f-87fa-ddb8908fc03a,4addcbc9-ffe6-4cdc-8fd9-74ae4ded8140,76898.149,card,upi_timeout,2026-08-29 21:16:18.964220,failed
+0ae971d5-6d5c-480c-bcbb-a93e66db4ff0,4addcbc9-ffe6-4cdc-8fd9-74ae4ded8140,69495.849,card,upi_timeout,2026-08-29 21:16:18.964223,failed
+e6144ae5-3c87-41c8-bb53-a1b877e31ee4,ea0fcae7-bcba-4f8f-9de7-9e932a6ca248,24783.617,wallet,upi_timeout,2026-08-29 21:16:18.964258,failed
+1496aac3-7dfc-44cb-a939-c3353d2d3db8,ea0fcae7-bcba-4f8f-9de7-9e932a6ca248,91051.523,wallet,upi_timeout,2026-08-29 21:16:18.964261,failed
+5b44cd0c-9f23-4a2e-aa68-8431584165d1,ea0fcae7-bcba-4f8f-9de7-9e932a6ca248,58216.982,wallet,upi_timeout,2026-08-29 21:16:18.964264,failed
+1686f127-57f8-4290-ba32-fc865d619fc5,464d62e7-f26b-4a2d-9ac8-cbda348cb5d5,31032.614,card,upi_timeout,2026-08-29 21:16:18.964298,failed
+e96770b6-3dc7-4b77-8b47-cfeb6b121882,464d62e7-f26b-4a2d-9ac8-cbda348cb5d5,72470.005,card,insufficient_funds,2026-08-29 21:16:18.964301,failed
+cc349120-d601-4142-8867-7eb9c2be5b0c,464d62e7-f26b-4a2d-9ac8-cbda348cb5d5,49813.266,card,upi_timeout,2026-08-29 21:16:18.964304,failed
+edf7b642-c561-48e1-8985-bdf5a6e41532,464d62e7-f26b-4a2d-9ac8-cbda348cb5d5,7460.795,card,upi_timeout,2026-08-29 21:16:18.964307,failed
+991a4226-27c7-4de9-be8a-69cf806f7e9e,464d62e7-f26b-4a2d-9ac8-cbda348cb5d5,16867.961,card,upi_timeout,2026-08-29 21:16:18.964311,failed
+8af864a1-d605-4314-ad36-9e366214015c,041b4a83-2fec-4480-a87c-17f82de012a2,5294.088,card,upi_timeout,2026-08-29 21:16:18.964354,failed
+d0153409-d70f-48cb-8610-7c2ba7a993f9,4df8ad3f-c8bb-4bcf-b71c-59306ca57b4d,89189.149,netbanking,upi_timeout,2026-08-29 21:16:18.964366,failed
+e6c91ccd-0cdc-4a6e-9e0d-c419b7f36e96,4df8ad3f-c8bb-4bcf-b71c-59306ca57b4d,68543.274,netbanking,insufficient_funds,2026-08-29 21:16:18.964369,failed
+3fd97b2f-5951-4934-8066-08d176bf7399,4df8ad3f-c8bb-4bcf-b71c-59306ca57b4d,33099.983,netbanking,upi_timeout,2026-08-29 21:16:18.964372,failed
+95b00675-da97-4e0f-9377-e8a4ca1a9991,46410537-6915-4620-8788-692bf39dfd88,77195.384,card,insufficient_funds,2026-08-29 21:16:18.964397,failed
+fcdd1379-ab57-409f-8455-7dea4c92b1e4,46410537-6915-4620-8788-692bf39dfd88,84917.262,card,insufficient_funds,2026-08-29 21:16:18.964400,failed
+a2a880cb-4820-49b2-a397-35ca8d4a0029,24a65569-d4b6-4cf6-926a-0cff554dfcfb,17099.702,card,insufficient_funds,2026-08-29 21:16:18.964419,failed
+8d9286d4-c084-4818-b4ba-34ed9df26b15,24a65569-d4b6-4cf6-926a-0cff554dfcfb,3008.778,card,insufficient_funds,2026-08-29 21:16:18.964423,failed
+aa9e1713-add7-4941-b6e9-7249178c04c1,4e4e0a9b-cb61-4d2b-840f-837780fcffa9,83809.568,card,insufficient_funds,2026-08-29 21:16:18.964443,failed
+4ae23e70-6844-40e7-9322-582afc95a46a,4e4e0a9b-cb61-4d2b-840f-837780fcffa9,95776.583,card,insufficient_funds,2026-08-29 21:16:18.964447,failed
+ce0a0d82-a208-44e7-9a55-1acce2330a21,c4692aab-43e9-4f15-95d2-693485a255dc,80020.679,card,insufficient_funds,2026-08-29 21:16:18.964461,failed
+b7ff08ee-87be-433a-b9cb-48b4814175f3,c4692aab-43e9-4f15-95d2-693485a255dc,55310.791,card,upi_timeout,2026-08-29 21:16:18.964464,failed
+6af748c6-bd2a-4a42-ad19-60efd9e6292a,c4692aab-43e9-4f15-95d2-693485a255dc,6486.564,card,insufficient_funds,2026-08-29 21:16:18.964467,failed
+822c3662-9686-48e5-a42a-4e6b979c1365,c4692aab-43e9-4f15-95d2-693485a255dc,90938.823,card,upi_timeout,2026-08-29 21:16:18.964470,failed
+2a78c16f-ea8c-438d-bb12-0826552b92fc,9b19e4d5-ab3e-4855-aaf0-8f5b66cb9cfb,28788.749,netbanking,upi_timeout,2026-08-29 21:16:18.964508,failed
+d443d863-c2c2-45f8-a136-dc3e4a04fbea,49a23798-b645-4740-85a4-faa0a78369f6,33351.583,card,insufficient_funds,2026-08-29 21:16:18.964516,failed
+f0128cba-5d18-4c3d-8da4-baa4d34230fa,49a23798-b645-4740-85a4-faa0a78369f6,75546.286,card,upi_timeout,2026-08-29 21:16:18.964519,failed
+9c953c7f-1d9f-405a-99ee-ef88e9cd5331,49a23798-b645-4740-85a4-faa0a78369f6,35968.925,card,insufficient_funds,2026-08-29 21:16:18.964522,failed
+5bc827e7-5cc1-4b51-8e69-e235454dc1ac,49a23798-b645-4740-85a4-faa0a78369f6,23413.359,card,insufficient_funds,2026-08-29 21:16:18.964525,failed
+f4035add-cd6e-48f4-baff-aa1701e5261f,49a23798-b645-4740-85a4-faa0a78369f6,85281.512,card,upi_timeout,2026-08-29 21:16:18.964528,failed
+40ff4237-ac6a-4f89-a73b-9f3fa9686f34,da3317fa-bc12-477a-963a-3dc50001110f,22241.904,netbanking,upi_timeout,2026-08-29 21:16:18.964566,failed
+71be542f-fe1b-4bf1-8e32-eb1d3b4b8045,da3317fa-bc12-477a-963a-3dc50001110f,42559.753,netbanking,insufficient_funds,2026-08-29 21:16:18.964569,failed
+9a5d70d5-8690-4126-a787-a3977d084a06,da3317fa-bc12-477a-963a-3dc50001110f,93931.82,netbanking,insufficient_funds,2026-08-29 21:16:18.964572,failed
+ad479f42-4c2b-41de-9fec-6d60625b43ed,da3317fa-bc12-477a-963a-3dc50001110f,82114.287,netbanking,insufficient_funds,2026-08-29 21:16:18.964575,failed
+2633931f-db71-4c15-b4d6-bbc4798a089a,b223d811-1686-4cae-ab5a-432548bedecf,12705.491,upi,insufficient_funds,2026-08-29 21:16:18.964619,failed
+703e18b3-4dd7-49a7-8924-124f71aecda5,b223d811-1686-4cae-ab5a-432548bedecf,39702.686,upi,insufficient_funds,2026-08-29 21:16:18.964622,failed
+2e3efc17-3a14-4f33-a30c-7f99258abc2f,b223d811-1686-4cae-ab5a-432548bedecf,64883.363,upi,upi_timeout,2026-08-29 21:16:18.964625,failed
+109f58a7-bf34-49dd-9e7e-7c432034d98b,2b1d7e32-f5b4-4505-9e16-ca4af163bc99,93887.418,wallet,upi_timeout,2026-08-29 21:16:18.964653,failed
+8b10ea31-51e3-48e6-90fc-b303f2a9a287,2b1d7e32-f5b4-4505-9e16-ca4af163bc99,92949.735,wallet,upi_timeout,2026-08-29 21:16:18.964656,failed
+91336008-b781-4712-bfc5-25684ce5e91f,2b1d7e32-f5b4-4505-9e16-ca4af163bc99,72482.755,wallet,insufficient_funds,2026-08-29 21:16:18.964659,failed
+a8821147-ad95-489e-b332-ac52b8979f32,a037965c-27a8-4ae8-8ef9-a54845d8f4cc,30293.157,upi,insufficient_funds,2026-08-29 21:16:18.964683,failed
+70e56c52-8cd7-48e0-a635-74393cb5a845,a037965c-27a8-4ae8-8ef9-a54845d8f4cc,6308.726,upi,upi_timeout,2026-08-29 21:16:18.964687,failed
+73d7f627-fb07-42b0-86cf-36f0cf294607,a037965c-27a8-4ae8-8ef9-a54845d8f4cc,60384.632,upi,upi_timeout,2026-08-29 21:16:18.964690,failed
+c77ead35-5897-42bd-94e2-4f1c118bd27a,a037965c-27a8-4ae8-8ef9-a54845d8f4cc,56163.215,upi,upi_timeout,2026-08-29 21:16:18.964693,failed
+8462f443-623e-489b-ad54-3dc2ce9b7796,1a1d7394-1c25-44bc-be34-df773f40754c,72292.664,wallet,upi_timeout,2026-08-29 21:16:18.964725,failed
+540bbe43-e4de-41f7-bae4-7cb94018db73,e3510c10-18ab-4731-ba4f-fc466a3dbf4b,73358.766,upi,upi_timeout,2026-08-29 21:16:18.964733,failed
+f7f295fc-d81b-48b7-8c3b-8b90d24140de,0eb6b3a9-1746-49b9-a875-1cfa5d445d1a,34059.492,upi,upi_timeout,2026-08-29 21:16:18.964745,failed
+702d50c9-736f-485a-afa6-103afe218a44,f336c28a-bfeb-454d-9b43-08b8f9abd7b1,61098.393,wallet,insufficient_funds,2026-08-29 21:16:18.964755,failed
+23d10c97-e8f9-449d-abda-74ac6035521d,f336c28a-bfeb-454d-9b43-08b8f9abd7b1,37557.195,wallet,upi_timeout,2026-08-29 21:16:18.964758,failed
+9dc7c399-6162-456b-b9ce-4a93e9157afb,f336c28a-bfeb-454d-9b43-08b8f9abd7b1,94428.755,wallet,upi_timeout,2026-08-29 21:16:18.964762,failed
+609311d1-eec9-47bf-ba7b-f67db9404344,e3bfca68-162e-4e01-8d02-6536974d58c2,21159.975,upi,upi_timeout,2026-08-29 21:16:18.964794,failed
+cf035a69-bcc5-4615-9a83-fb1305fcbb7f,e3bfca68-162e-4e01-8d02-6536974d58c2,15013.374,upi,insufficient_funds,2026-08-29 21:16:18.964797,failed
+7d6187eb-ba96-4a36-be89-82e7f6ddef27,e3bfca68-162e-4e01-8d02-6536974d58c2,54270.577,upi,insufficient_funds,2026-08-29 21:16:18.964800,failed
+9115a141-366b-4266-9aac-3b05b12c1e3f,e3bfca68-162e-4e01-8d02-6536974d58c2,39321.034,upi,upi_timeout,2026-08-29 21:16:18.964803,failed
+8ed94d8c-5b30-4673-ae64-a298a3f23461,e3bfca68-162e-4e01-8d02-6536974d58c2,2060.961,upi,insufficient_funds,2026-08-29 21:16:18.964806,failed
+cbe0d6ae-63d6-4b8a-ac21-a84daea9ac74,22ba6e16-57ce-4254-bc20-88740361310f,40331.265,card,upi_timeout,2026-08-29 21:16:18.964857,failed
+9253bb15-30aa-4eeb-8174-3c8586901a01,22ba6e16-57ce-4254-bc20-88740361310f,99685.789,card,insufficient_funds,2026-08-29 21:16:18.964861,failed
+2236607a-63f9-4f91-bdad-8f4be466af7a,22ba6e16-57ce-4254-bc20-88740361310f,13082.642,card,insufficient_funds,2026-08-29 21:16:18.964864,failed
+ac3917ad-c4dd-4a8c-85e1-3a37e6474742,22ba6e16-57ce-4254-bc20-88740361310f,65915.634,card,insufficient_funds,2026-08-29 21:16:18.964868,failed
+44af61e5-a9a3-4b94-89a8-ff43d872e409,22ba6e16-57ce-4254-bc20-88740361310f,90884.452,card,upi_timeout,2026-08-29 21:16:18.964871,failed
+0d2cdc58-e191-4a4e-948e-0690739d1271,dfde83cb-5e86-41ea-a6ea-b0f999eba979,93361.015,wallet,insufficient_funds,2026-08-29 21:16:18.964981,failed
+ce9f2cf4-e1a6-4fa5-8d4a-6f1fbdc16bd6,dfde83cb-5e86-41ea-a6ea-b0f999eba979,72106.005,wallet,insufficient_funds,2026-08-29 21:16:18.964986,failed
+1af1efbd-0dec-44e0-b7b0-3675476f83dd,dfde83cb-5e86-41ea-a6ea-b0f999eba979,94276.613,wallet,insufficient_funds,2026-08-29 21:16:18.964989,failed
+cb14ac11-575a-4c50-95e6-0f944f319ec1,dfde83cb-5e86-41ea-a6ea-b0f999eba979,47969.689,wallet,insufficient_funds,2026-08-29 21:16:18.964993,failed
+ee3bc50c-7103-4c32-9274-186b30528cfa,dfde83cb-5e86-41ea-a6ea-b0f999eba979,88483.603,wallet,insufficient_funds,2026-08-29 21:16:18.964998,failed
+36408850-6414-4fc0-bbd0-e591ce14954f,d95c03e8-14be-4534-97e6-d195d73d6769,77689.117,netbanking,insufficient_funds,2026-08-29 21:16:18.965033,failed
+331b2d7e-fdd2-4042-bb05-018f8f53b11c,d95c03e8-14be-4534-97e6-d195d73d6769,81397.205,netbanking,upi_timeout,2026-08-29 21:16:18.965037,failed
+ea61caf5-c968-4067-88a8-5f42d4d491ba,d95c03e8-14be-4534-97e6-d195d73d6769,71240.043,netbanking,upi_timeout,2026-08-29 21:16:18.965040,failed
+b840c55d-d14c-45f5-9f4f-a3b2a88ac6bc,d95c03e8-14be-4534-97e6-d195d73d6769,36484.104,netbanking,insufficient_funds,2026-08-29 21:16:18.965043,failed
+517158ff-25e1-48d8-b70f-5aedf0acc251,d95c03e8-14be-4534-97e6-d195d73d6769,21990.035,netbanking,upi_timeout,2026-08-29 21:16:18.965047,failed
+ff3f8131-121f-4e64-bf84-9131318668e0,7992327f-53a3-4219-ae34-e13ec1e1bd1a,25532.469,card,upi_timeout,2026-08-29 21:16:18.965077,failed
+8689c2ab-e6b6-4b6c-bbfd-bb63df311fcd,7992327f-53a3-4219-ae34-e13ec1e1bd1a,4133.956,card,insufficient_funds,2026-08-29 21:16:18.965080,failed
+e7b76163-d47b-4b57-acf8-e1d2915924d3,7992327f-53a3-4219-ae34-e13ec1e1bd1a,49412.358,card,upi_timeout,2026-08-29 21:16:18.965082,failed
+53d0ffa4-a4f5-497e-8d14-69176a1d6090,7992327f-53a3-4219-ae34-e13ec1e1bd1a,94334.322,card,upi_timeout,2026-08-29 21:16:18.965085,failed
+325620e7-d900-4d8e-a2bf-a854b97cbe32,ab8230af-9aef-467b-ba69-0b0f47650504,77069.745,netbanking,insufficient_funds,2026-08-29 21:16:18.965124,failed
+caeb2bcc-6fc1-4235-b78f-8c9d7357b5a9,9d67f949-6199-4419-925e-b3e9438dcaae,17562.238,netbanking,upi_timeout,2026-08-29 21:16:18.965135,failed
+5116dd04-5732-4744-bf42-12ebe4fd05a0,9d67f949-6199-4419-925e-b3e9438dcaae,17001.179,netbanking,insufficient_funds,2026-08-29 21:16:18.965139,failed
+47eec306-4daa-40e5-b894-5504f27ebe5c,9d67f949-6199-4419-925e-b3e9438dcaae,97639.601,netbanking,upi_timeout,2026-08-29 21:16:18.965142,failed
+6876b4de-6ad2-4295-899a-ca7a8ec72d78,1fe3573f-f93d-4753-94fe-0b92dbba6182,54923.872,upi,upi_timeout,2026-08-29 21:16:18.965178,failed
+ac73f629-4f6a-4045-bddd-b7a91a78c857,1fe3573f-f93d-4753-94fe-0b92dbba6182,23324.701,upi,upi_timeout,2026-08-29 21:16:18.965181,failed
+f18c8201-1551-4113-90e4-da88a7b507f1,1fe3573f-f93d-4753-94fe-0b92dbba6182,11075.68,upi,insufficient_funds,2026-08-29 21:16:18.965184,failed
+4b4c8892-192e-40bf-ab31-408e4acd5a13,185f4a97-5a39-4823-98e8-7b247dd33b91,8396.057,wallet,insufficient_funds,2026-08-29 21:16:18.965216,failed
+e85a0e97-ae46-4bee-99bb-ec915ec1f421,185f4a97-5a39-4823-98e8-7b247dd33b91,64124.66,wallet,insufficient_funds,2026-08-29 21:16:18.965220,failed
+da529017-658b-44ac-8f94-5da9ccea4358,185f4a97-5a39-4823-98e8-7b247dd33b91,83961.82,wallet,upi_timeout,2026-08-29 21:16:18.965223,failed
+01ab1451-5b3f-44af-ac05-00e090f82362,185f4a97-5a39-4823-98e8-7b247dd33b91,15568.086,wallet,insufficient_funds,2026-08-29 21:16:18.965227,failed
+3aadf3dd-bcab-4223-a5ac-e23b5851c39e,a706c145-ed80-46b4-b562-643f55472b11,19694.773,card,insufficient_funds,2026-08-29 21:16:18.965256,failed
+380d15e3-f8b4-4f29-8867-8ba0cab95ce7,8dd38976-e338-438b-aec4-8e090e322577,22693.35,card,upi_timeout,2026-08-29 21:16:18.965266,failed
+c77774af-7a4e-46af-8347-0cf3298f47fe,8dd38976-e338-438b-aec4-8e090e322577,71065.725,card,insufficient_funds,2026-08-29 21:16:18.965269,failed
+5fee95e7-391d-4665-8f1d-cd1f0dfdc73b,8dd38976-e338-438b-aec4-8e090e322577,61792.804,card,upi_timeout,2026-08-29 21:16:18.965273,failed
+27e3aa5a-de7b-483e-9cde-280aa36c3ea6,8dd38976-e338-438b-aec4-8e090e322577,16348.411,card,insufficient_funds,2026-08-29 21:16:18.965276,failed
+4b7b27b2-5901-495f-ab55-60802fac7fcf,29041952-3476-4c4c-a231-125829ddb1e0,43683.353,card,upi_timeout,2026-08-29 21:16:18.965301,failed
+7118b742-a24d-45e1-96d1-228b8a9689e7,29041952-3476-4c4c-a231-125829ddb1e0,72846.306,card,upi_timeout,2026-08-29 21:16:18.965305,failed
+da9ced8a-978e-4b7c-a0ba-2825476c926c,29041952-3476-4c4c-a231-125829ddb1e0,3277.708,card,insufficient_funds,2026-08-29 21:16:18.965307,failed
+73e5b3fd-0d8c-4579-b036-6088847f3069,29041952-3476-4c4c-a231-125829ddb1e0,69206.365,card,upi_timeout,2026-08-29 21:16:18.965310,failed
+0a3b9583-e520-456e-855f-41f931732806,054b0597-9c6d-4299-8d6b-167422963306,54141.544,netbanking,upi_timeout,2026-08-29 21:16:18.965341,failed
+d4584022-0411-4900-a28f-d97485e046b1,054b0597-9c6d-4299-8d6b-167422963306,94196.171,netbanking,insufficient_funds,2026-08-29 21:16:18.965345,failed
+7ce42781-37f6-4de3-8466-892e40a3a496,054b0597-9c6d-4299-8d6b-167422963306,54311.602,netbanking,upi_timeout,2026-08-29 21:16:18.965348,failed
+5919cf15-99c4-4507-87a4-b1e6dbd4de07,7854be2b-ea34-4569-aded-4c9b5fc8a29d,80531.585,upi,insufficient_funds,2026-08-29 21:16:18.965374,failed
+b10a681b-3d01-495a-b181-10fc7f993d22,d62df6e7-cded-44e5-9460-a8a74d7c49e2,86214.828,wallet,upi_timeout,2026-08-29 21:16:18.965381,failed
+28f6868b-31b1-483a-86c1-9780894674f0,d62df6e7-cded-44e5-9460-a8a74d7c49e2,44998.446,wallet,insufficient_funds,2026-08-29 21:16:18.965384,failed
+b5af05d0-d056-4a37-bbf8-345283d92d0c,d62df6e7-cded-44e5-9460-a8a74d7c49e2,33705.826,wallet,upi_timeout,2026-08-29 21:16:18.965387,failed
+ab945375-336d-41fd-9ebe-54e401ddb712,d62df6e7-cded-44e5-9460-a8a74d7c49e2,78463.385,wallet,insufficient_funds,2026-08-29 21:16:18.965390,failed
+7b02846f-df3f-43f3-bc4a-27f3fcd8865f,d62df6e7-cded-44e5-9460-a8a74d7c49e2,69782.444,wallet,insufficient_funds,2026-08-29 21:16:18.965393,failed
+76176126-d1b2-4015-891c-bf1e263e5d38,cc856da5-35b4-476f-94be-dd02c20b679a,97255.835,upi,insufficient_funds,2026-08-29 21:16:18.965425,failed
+17afb7b0-b435-45ab-9f29-88e078d85c11,cc856da5-35b4-476f-94be-dd02c20b679a,27546.263,upi,insufficient_funds,2026-08-29 21:16:18.965428,failed
+89ccbd9e-c030-470b-a88c-5c6a026c777b,a49997a1-a5c4-4c1a-b593-3ee551ec3c5a,68106.009,card,upi_timeout,2026-08-29 21:16:18.965439,failed
+8e718f40-2bc0-4658-beda-57a40473b252,f1dddad0-d307-49cb-9e99-e3dfaf486605,74392.442,card,insufficient_funds,2026-08-29 21:16:18.965446,failed
+b6697625-1eb6-4041-9b80-f8ef4a730989,f1dddad0-d307-49cb-9e99-e3dfaf486605,84302.814,card,insufficient_funds,2026-08-29 21:16:18.965449,failed
+dfa9f9a2-4a2d-4378-95e0-0a5732b9b617,baf4a6e2-4e2a-4966-8b9c-28982edaf884,78645.81,netbanking,upi_timeout,2026-08-29 21:16:18.965465,failed
+ab52b033-03e0-44f6-b422-6b033b85f93b,baf4a6e2-4e2a-4966-8b9c-28982edaf884,59091.863,netbanking,upi_timeout,2026-08-29 21:16:18.965470,failed
+595cfe5d-49ec-4fdb-8fc1-74744f4c7c4e,8cea098d-bc7b-4381-8622-87ca11a9ebdd,80966.572,netbanking,insufficient_funds,2026-08-29 21:16:18.965485,failed
+3b254871-9a7a-40ab-b50f-0599133b4287,8cea098d-bc7b-4381-8622-87ca11a9ebdd,80204.136,netbanking,insufficient_funds,2026-08-29 21:16:18.965488,failed
+0347d42c-5696-4c4d-acef-d878a1ae0d62,0c73cce6-af14-4565-98b8-c06fc48b7334,3141.438,upi,upi_timeout,2026-08-29 21:16:18.965503,failed
+fbc4b128-1f4e-403a-97c4-15c39a1c1f81,0c73cce6-af14-4565-98b8-c06fc48b7334,14375.586,upi,insufficient_funds,2026-08-29 21:16:18.965506,failed
+2c00d8cc-534f-45a7-909f-77412bec52e4,f2bf05d4-aeae-4adc-8238-9e5392cc1d30,36863.826,upi,insufficient_funds,2026-08-29 21:16:18.965521,failed
+22178d75-f421-495f-bc57-c7eb2e991b4b,f2bf05d4-aeae-4adc-8238-9e5392cc1d30,65624.758,upi,insufficient_funds,2026-08-29 21:16:18.965524,failed
+e5d4692d-e847-42f7-aacf-0c816327134c,f2bf05d4-aeae-4adc-8238-9e5392cc1d30,76732.581,upi,insufficient_funds,2026-08-29 21:16:18.965527,failed
+d79ccdb3-dec1-412e-ae9d-cdbfc827f75d,f2bf05d4-aeae-4adc-8238-9e5392cc1d30,52985.817,upi,upi_timeout,2026-08-29 21:16:18.965530,failed
+900f6bd9-eedc-4ee7-9b9a-bcf48cb473b6,4c8fbe84-ec1a-4712-acf6-d46d3e9415bd,36698.022,upi,upi_timeout,2026-08-29 21:16:18.965555,failed
+31c24ba3-4ea2-4279-ada4-ef297b940b7d,4c8fbe84-ec1a-4712-acf6-d46d3e9415bd,83138.961,upi,insufficient_funds,2026-08-29 21:16:18.965558,failed
+a6534a25-a2b4-44e1-b308-7c73aaa92a03,07b2c54c-8e87-42b7-a001-126b5fd7c2bc,92601.167,card,insufficient_funds,2026-08-29 21:16:18.965573,failed
+049f9a12-6f75-4b77-b0df-c0ddac850de6,07b2c54c-8e87-42b7-a001-126b5fd7c2bc,35484.318,card,insufficient_funds,2026-08-29 21:16:18.965576,failed
+77526c3e-29ea-447d-a446-e8f856430aa5,07b2c54c-8e87-42b7-a001-126b5fd7c2bc,30655.751,card,upi_timeout,2026-08-29 21:16:18.965579,failed
+2d101ddb-bdd0-4b10-902d-2df214b83309,d809a906-8e4d-48c4-922f-824eb580be83,44685.644,netbanking,upi_timeout,2026-08-29 21:16:18.965612,failed
+42f65b63-52f9-4089-a558-3252a9edbfa8,d809a906-8e4d-48c4-922f-824eb580be83,18807.661,netbanking,insufficient_funds,2026-08-29 21:16:18.965617,failed
+11f4f2db-55e4-4a2d-8f44-fc38bcdb52c6,d809a906-8e4d-48c4-922f-824eb580be83,98397.696,netbanking,upi_timeout,2026-08-29 21:16:18.965621,failed
+7d49ac75-268f-443c-a895-d03a2193aca0,d809a906-8e4d-48c4-922f-824eb580be83,45040.806,netbanking,insufficient_funds,2026-08-29 21:16:18.965626,failed
+58d88f23-93a7-43ba-9eb9-004a5f6b3c31,d809a906-8e4d-48c4-922f-824eb580be83,96541.363,netbanking,upi_timeout,2026-08-29 21:16:18.965633,failed
+a652385c-a87b-45f1-860e-04716f20abb9,57a75596-550b-4639-9e72-6e9f9e17d273,26807.189,card,upi_timeout,2026-08-29 21:16:18.965688,failed
+c4101d6f-a233-4786-ac01-6445037a8955,3fb11a9d-9611-43e7-840a-1f1fe347afdc,63991.337,upi,insufficient_funds,2026-08-29 21:16:18.965703,failed
+40e5062f-884e-4a20-8114-823e55089f08,3fb11a9d-9611-43e7-840a-1f1fe347afdc,91291.115,upi,insufficient_funds,2026-08-29 21:16:18.965706,failed
+af66120c-04f1-4977-8518-10c9eed1b7da,3fb11a9d-9611-43e7-840a-1f1fe347afdc,52593.545,upi,upi_timeout,2026-08-29 21:16:18.965710,failed
+0be474e7-e6fe-4620-b9b5-44c5617af5ea,3fb11a9d-9611-43e7-840a-1f1fe347afdc,74671.442,upi,upi_timeout,2026-08-29 21:16:18.965714,failed
+ea65a2b5-4603-495b-a7a0-00ac2eff13c1,ba273e5f-c850-4823-97ed-bde2c439af18,15970.404,netbanking,upi_timeout,2026-08-29 21:16:18.965760,failed
+9b129191-1390-4e84-9ed9-665c8eb458a2,ba273e5f-c850-4823-97ed-bde2c439af18,22864.409,netbanking,upi_timeout,2026-08-29 21:16:18.965763,failed
+9dbbf72d-4e48-4c10-8f9c-dd9285dd574a,ba273e5f-c850-4823-97ed-bde2c439af18,37345.481,netbanking,insufficient_funds,2026-08-29 21:16:18.965767,failed
+a54e5202-af51-450b-8c32-e614deb27bfb,ba273e5f-c850-4823-97ed-bde2c439af18,69642.686,netbanking,insufficient_funds,2026-08-29 21:16:18.965771,failed
+ac9fc71c-62c0-4cbe-9fe1-6caea3b11852,ba273e5f-c850-4823-97ed-bde2c439af18,33578.81,netbanking,insufficient_funds,2026-08-29 21:16:18.965775,failed
+074036a9-6351-4a2f-a7a0-1a0f860da9fd,3ebd22e0-84c9-49cb-a350-259218add175,20250.883,upi,upi_timeout,2026-08-29 21:16:18.965822,failed
+56abbdfd-ec48-45f3-9984-55fb347bd642,868c4ae9-b257-4efc-879d-5846384e2b77,12192.987,upi,insufficient_funds,2026-08-29 21:16:18.965832,failed
+31c90d60-0389-4ebe-93b8-77c54017e66a,868c4ae9-b257-4efc-879d-5846384e2b77,45805.771,upi,upi_timeout,2026-08-29 21:16:18.965836,failed
+8f420105-1f2d-43c4-9a40-a3f9928e969c,6d0808d7-3458-45b7-9a64-36606fc38b57,59359.596,wallet,upi_timeout,2026-08-29 21:16:18.965852,failed
+607b11c5-430b-4c2f-8fa7-9a2d569d2e7e,6d0808d7-3458-45b7-9a64-36606fc38b57,15323.017,wallet,upi_timeout,2026-08-29 21:16:18.965855,failed
+8405c706-6643-4f4b-af4f-be636cf1197e,efbaa82a-b181-4084-bf15-2e7ca359918e,95891.83,wallet,upi_timeout,2026-08-29 21:16:18.965870,failed
+e27760fe-5777-4f5f-b0b6-adac350d7f93,efbaa82a-b181-4084-bf15-2e7ca359918e,61872.64,wallet,insufficient_funds,2026-08-29 21:16:18.965874,failed
+f7baa087-c1cc-4c8f-ac77-7062f5328573,efbaa82a-b181-4084-bf15-2e7ca359918e,12829.191,wallet,upi_timeout,2026-08-29 21:16:18.965878,failed
+dbec03d3-32fe-470b-ad3f-c3969a1e09c5,efbaa82a-b181-4084-bf15-2e7ca359918e,13493.9,wallet,insufficient_funds,2026-08-29 21:16:18.965892,failed
+16f9a1fb-8d0e-47cf-86e9-5a8b341ecc44,e3702dd7-2961-436b-825c-90c46370991b,2118.471,wallet,insufficient_funds,2026-08-29 21:16:18.965917,failed
+5427b78e-4a5e-43f5-8363-7dab568071f9,077d0d43-659f-440c-9354-5f0e478d139c,73947.363,card,upi_timeout,2026-08-29 21:16:18.965927,failed
+b86011fe-5bef-47b9-9708-ac8fb0876277,52b59904-d923-48b4-a180-42340379f0db,71813.501,wallet,upi_timeout,2026-08-29 21:16:18.965934,failed
+2e204e6a-65fb-4cc5-92ff-68f08e8441eb,93f925bf-c81d-417f-884d-4905e73f73ac,32980.1,card,upi_timeout,2026-08-29 21:16:18.965945,failed
+d3052d8c-df95-483f-911f-4bb88aeddb01,ec24c2da-7b03-40c6-9e18-6f8ff0fc6c1e,95855.881,upi,insufficient_funds,2026-08-29 21:16:18.965959,failed
+1716383a-070f-4801-bd99-282211413509,85a8ebac-d6a3-48a7-9fcc-a11205723d15,67257.009,card,upi_timeout,2026-08-29 21:16:18.965974,failed
+0b20f5ba-0347-4648-a401-d4bda88d65eb,85a8ebac-d6a3-48a7-9fcc-a11205723d15,18930.571,card,insufficient_funds,2026-08-29 21:16:18.965977,failed
+67287f50-39a7-46ff-ada7-ab771cd0c076,85a8ebac-d6a3-48a7-9fcc-a11205723d15,58541.43,card,insufficient_funds,2026-08-29 21:16:18.965980,failed
+cf4a3a1c-f6cc-4cd4-9ccc-c8e276a2056d,85a8ebac-d6a3-48a7-9fcc-a11205723d15,58861.56,card,insufficient_funds,2026-08-29 21:16:18.965983,failed
+2744943a-87e9-45fe-b75e-ec51cdc10892,85a8ebac-d6a3-48a7-9fcc-a11205723d15,62251.678,card,insufficient_funds,2026-08-29 21:16:18.965986,failed
+ee4af67b-538b-4abc-bff6-f24146d4d9da,3f860244-9ca6-4a08-8e66-8c50c31c9b9c,96203.187,upi,upi_timeout,2026-08-29 21:16:18.966022,failed
+e3f95a15-6b0e-4794-802e-ef4f125ef576,3f860244-9ca6-4a08-8e66-8c50c31c9b9c,6695.135,upi,insufficient_funds,2026-08-29 21:16:18.966024,failed
+2b1f9488-1f1f-489d-9ae0-b10ab54af0e2,3f860244-9ca6-4a08-8e66-8c50c31c9b9c,57582.846,upi,upi_timeout,2026-08-29 21:16:18.966027,failed
+700285bb-0929-478e-b0da-66920a4ba2ef,3f860244-9ca6-4a08-8e66-8c50c31c9b9c,50572.637,upi,insufficient_funds,2026-08-29 21:16:18.966030,failed
+74a18a46-321a-4244-afc7-ffa10ea1f4bc,2d42dd83-3b0f-46e1-a7da-59812de019be,57158.158,netbanking,insufficient_funds,2026-08-29 21:16:18.966065,failed
+64114c7c-fa98-4419-9179-96bccf78c115,2d42dd83-3b0f-46e1-a7da-59812de019be,60814.998,netbanking,insufficient_funds,2026-08-29 21:16:18.966068,failed
+80b149ba-f0df-456a-a37f-bcdd1b8826aa,3d78124c-db75-49a9-baeb-bcd1aa79f556,99411.281,upi,upi_timeout,2026-08-29 21:16:18.966085,failed
+4036023c-228e-473c-b6f2-30c5ba5d5c99,3d78124c-db75-49a9-baeb-bcd1aa79f556,13913.561,upi,insufficient_funds,2026-08-29 21:16:18.966090,failed
+7f3e4338-ab88-48d2-8c37-7bfc8aeec9d6,3d78124c-db75-49a9-baeb-bcd1aa79f556,61225.471,upi,insufficient_funds,2026-08-29 21:16:18.966092,failed
+4442b5ec-ff9f-40f3-99ea-9499f7265d33,3d78124c-db75-49a9-baeb-bcd1aa79f556,39971.704,upi,upi_timeout,2026-08-29 21:16:18.966095,failed
+1329d97a-dd2c-4dac-b65a-9497d352aacc,3d78124c-db75-49a9-baeb-bcd1aa79f556,5628.619,upi,insufficient_funds,2026-08-29 21:16:18.966098,failed
+3267575c-361b-45ee-b31e-f99a866478e8,9c7894aa-3218-4c31-b62a-b98d57383d22,49149.202,netbanking,insufficient_funds,2026-08-29 21:16:18.966129,failed
+4716b531-e4f8-4b1e-9dc8-be49d3e6ab33,9c7894aa-3218-4c31-b62a-b98d57383d22,55440.832,netbanking,insufficient_funds,2026-08-29 21:16:18.966132,failed
+7f1f7f75-008b-4c17-8db1-8556fd9474d6,9c7894aa-3218-4c31-b62a-b98d57383d22,82929.181,netbanking,insufficient_funds,2026-08-29 21:16:18.966135,failed
+f01cfb47-1af9-4fd8-8410-28a10fa8acd0,9c7894aa-3218-4c31-b62a-b98d57383d22,40218.33,netbanking,insufficient_funds,2026-08-29 21:16:18.966138,failed
+48b34aff-9131-411a-9ca9-213d99dc1824,9c7894aa-3218-4c31-b62a-b98d57383d22,12049.586,netbanking,upi_timeout,2026-08-29 21:16:18.966149,failed
+0921d010-96f6-4597-b3f0-6f51512ba715,af4979b6-4cd8-437b-a243-7cd5810e3e35,82677.928,netbanking,insufficient_funds,2026-08-29 21:16:18.966203,failed
+5492e5a0-8669-4c9e-963b-dd1bf3131a2a,af4979b6-4cd8-437b-a243-7cd5810e3e35,45042.194,netbanking,insufficient_funds,2026-08-29 21:16:18.966206,failed
+f4538c2b-fb18-4f88-8339-1432c8126661,af4979b6-4cd8-437b-a243-7cd5810e3e35,87649.775,netbanking,insufficient_funds,2026-08-29 21:16:18.966209,failed
+993d9ef3-d528-4be3-88d9-2741911d04ee,af4979b6-4cd8-437b-a243-7cd5810e3e35,47333.534,netbanking,insufficient_funds,2026-08-29 21:16:18.966212,failed
+2bae7534-ee27-4417-b5a0-47dcc75d2040,f1705ae9-ebdf-45c8-ac91-7ee4d7a91abb,2201.839,upi,insufficient_funds,2026-08-29 21:16:18.966244,failed
+e8dafe59-f9fe-43e6-83a5-f797b86a5ca0,f1705ae9-ebdf-45c8-ac91-7ee4d7a91abb,21747.955,upi,insufficient_funds,2026-08-29 21:16:18.966247,failed
+76729076-f457-4bee-95b8-c368c45ef4cd,f1705ae9-ebdf-45c8-ac91-7ee4d7a91abb,30803.769,upi,upi_timeout,2026-08-29 21:16:18.966250,failed
+699a13cd-95ff-44be-a9b6-26c28e1969c6,f1705ae9-ebdf-45c8-ac91-7ee4d7a91abb,88357.839,upi,upi_timeout,2026-08-29 21:16:18.966252,failed
+46e34a58-9533-4b63-acf1-3bf36188db99,a827ce6b-c81a-4f2f-adb2-3652c0f21098,21430.434,wallet,insufficient_funds,2026-08-29 21:16:18.966299,failed
+3322e3ae-00d3-434d-bf64-d5192b5f1849,a827ce6b-c81a-4f2f-adb2-3652c0f21098,26034.399,wallet,upi_timeout,2026-08-29 21:16:18.966302,failed
+48fa502f-e982-4061-8f66-256fca32e929,a827ce6b-c81a-4f2f-adb2-3652c0f21098,87979.48,wallet,insufficient_funds,2026-08-29 21:16:18.966305,failed
+735b2296-f466-41c2-bdc7-0519ec1b9655,a827ce6b-c81a-4f2f-adb2-3652c0f21098,16837.278,wallet,insufficient_funds,2026-08-29 21:16:18.966308,failed
+c21df19f-c82c-49a3-b7d8-3ac3deb91d4b,a827ce6b-c81a-4f2f-adb2-3652c0f21098,16638.638,wallet,insufficient_funds,2026-08-29 21:16:18.966311,failed
+fd732818-e6fc-4996-bc28-141540c56b76,984c8694-3767-45f3-a48e-c1140fa7bb02,71008.739,upi,insufficient_funds,2026-08-29 21:16:18.966345,failed
+2b4fc642-c46b-4805-a0f4-176338d2e1ac,984c8694-3767-45f3-a48e-c1140fa7bb02,62107.261,upi,insufficient_funds,2026-08-29 21:16:18.966348,failed
+033a21d4-0a5d-4415-bf6b-c17bd5c3c07d,984c8694-3767-45f3-a48e-c1140fa7bb02,6241.483,upi,insufficient_funds,2026-08-29 21:16:18.966351,failed
+b76566e2-f927-4b59-9b89-efbc4bd436a9,984c8694-3767-45f3-a48e-c1140fa7bb02,18856.045,upi,insufficient_funds,2026-08-29 21:16:18.966354,failed
+b880c09c-1081-4dc7-ab76-710119f8a08b,984c8694-3767-45f3-a48e-c1140fa7bb02,13339.463,upi,upi_timeout,2026-08-29 21:16:18.966356,failed
+5683c68e-cb9c-4cf5-b222-a4e12ad64733,e163930c-fd84-4f8d-a93f-3a3a5d19a0dd,8366.799,wallet,insufficient_funds,2026-08-29 21:16:18.966403,failed
+fbb1030b-166d-4dd1-9ebc-4842ab050496,e163930c-fd84-4f8d-a93f-3a3a5d19a0dd,3463.9,wallet,insufficient_funds,2026-08-29 21:16:18.966406,failed
+3726ff2d-5ea2-4fe6-a7f4-85dcf8575329,e163930c-fd84-4f8d-a93f-3a3a5d19a0dd,27284.657,wallet,insufficient_funds,2026-08-29 21:16:18.966408,failed
+8d829b6d-723d-4bf8-91ef-70d3166ce7a0,92a87ce2-206d-4baf-acdf-cce6d08429d9,12027.315,wallet,insufficient_funds,2026-08-29 21:16:18.966426,failed
+99980755-d82f-4ced-8870-d8a1b47542ab,91be324f-0110-4176-9661-4d5589f039d5,25299.794,card,insufficient_funds,2026-08-29 21:16:18.966436,failed
+af3c7a22-a2f1-4ebe-b217-eae86dd095d7,91be324f-0110-4176-9661-4d5589f039d5,24866.375,card,upi_timeout,2026-08-29 21:16:18.966439,failed
+2d4a2855-1caa-4152-a898-400877ecf2d8,91be324f-0110-4176-9661-4d5589f039d5,73454.661,card,upi_timeout,2026-08-29 21:16:18.966441,failed
+5559865a-4a9d-471c-b672-f202a389ebc3,849f12c2-71c5-4090-b5d3-58e87380ae4a,99901.924,wallet,upi_timeout,2026-08-29 21:16:18.966473,failed
+3d4092bd-a1e0-46a2-94e4-995f5810f731,ff2f134f-17c7-47b5-a099-a27972788bd5,47630.126,upi,upi_timeout,2026-08-29 21:16:18.966485,failed
+e2ab5be9-c22f-4c87-845d-54c600d5b2d1,ff2f134f-17c7-47b5-a099-a27972788bd5,34792.638,upi,upi_timeout,2026-08-29 21:16:18.966488,failed
+91818e3b-2a44-4dbe-af55-9169e5983ecd,ff2f134f-17c7-47b5-a099-a27972788bd5,36968.653,upi,upi_timeout,2026-08-29 21:16:18.966491,failed
+a30dcfc8-e301-40b2-80f5-d62ac8380df8,ff2f134f-17c7-47b5-a099-a27972788bd5,50421.027,upi,insufficient_funds,2026-08-29 21:16:18.966494,failed
+0af6e811-7e45-43d2-b392-5e73c3012adf,42576b52-0f38-4da9-8abc-bc327837447f,80115.948,upi,insufficient_funds,2026-08-29 21:16:18.966527,failed
+92268f7a-0dc4-42bf-ab8b-bb8599eb7d28,42576b52-0f38-4da9-8abc-bc327837447f,25881.836,upi,upi_timeout,2026-08-29 21:16:18.966530,failed
+b892c60b-923d-47ce-8bec-2340ed82d278,42576b52-0f38-4da9-8abc-bc327837447f,3887.5,upi,insufficient_funds,2026-08-29 21:16:18.966533,failed
+50bfbd70-c7ac-46fa-af67-b9ad0e19f85a,42576b52-0f38-4da9-8abc-bc327837447f,19177.504,upi,upi_timeout,2026-08-29 21:16:18.966536,failed
+ca6807dc-c3a2-4274-b66d-e56651999e8f,42576b52-0f38-4da9-8abc-bc327837447f,21724.984,upi,upi_timeout,2026-08-29 21:16:18.966539,failed
+9a8fba22-5e2e-4f3c-94f0-a352cbfc3de0,4191e20f-0441-4270-a1a1-67c59ed26dd8,2345.883,upi,insufficient_funds,2026-08-29 21:16:18.966566,failed
+9f83762b-c4ae-40cf-87ed-e70dac0eea9b,4191e20f-0441-4270-a1a1-67c59ed26dd8,12799.719,upi,upi_timeout,2026-08-29 21:16:18.966569,failed
+5ff7e783-8a76-4870-92aa-9a68379dfe97,4191e20f-0441-4270-a1a1-67c59ed26dd8,96059.902,upi,insufficient_funds,2026-08-29 21:16:18.966572,failed
+0511da0a-56e3-4905-885b-e9433d42a2eb,4191e20f-0441-4270-a1a1-67c59ed26dd8,87695.596,upi,upi_timeout,2026-08-29 21:16:18.966575,failed
+41308f32-9c84-4689-9b3e-c8a707618ff1,71d17e38-c5df-472f-9d6c-5547f6c84d3d,29533.951,netbanking,upi_timeout,2026-08-29 21:16:18.966616,failed
+c5f5d97e-0d37-4a5e-bd9a-c22075cca835,71d17e38-c5df-472f-9d6c-5547f6c84d3d,77169.129,netbanking,insufficient_funds,2026-08-29 21:16:18.966619,failed
+d1bd66c7-84df-4399-b12b-9947e3eed8a0,71d17e38-c5df-472f-9d6c-5547f6c84d3d,52520.232,netbanking,insufficient_funds,2026-08-29 21:16:18.966623,failed
+6f2cf4cd-0ae4-4d07-b309-c49a0321e0a5,71d17e38-c5df-472f-9d6c-5547f6c84d3d,56297.4,netbanking,insufficient_funds,2026-08-29 21:16:18.966626,failed
+19f3f249-9fc4-4417-9e2b-fdbfe56acd4c,84b47802-2464-4590-b7f8-f28d4334e0b9,58587.646,card,insufficient_funds,2026-08-29 21:16:18.966660,failed
+6842b91b-1669-4ee3-ba62-94fca3d97115,555aacbe-5cbb-4dfb-92a7-7a612ab89ccb,19683.518,upi,upi_timeout,2026-08-29 21:16:18.966674,failed
+e7cb1267-993e-4085-b3a1-e35fa0b1898d,2ade7845-a828-4864-835f-7063a48cf3cc,3324.577,netbanking,insufficient_funds,2026-08-29 21:16:18.966681,failed
+1506c78b-e89f-493d-8496-e8ae7065a1cc,2ade7845-a828-4864-835f-7063a48cf3cc,36657.182,netbanking,upi_timeout,2026-08-29 21:16:18.966684,failed
+4a642ae1-d534-4a86-b98d-819538691996,2ade7845-a828-4864-835f-7063a48cf3cc,86052.648,netbanking,insufficient_funds,2026-08-29 21:16:18.966686,failed
+8b612994-5b2f-4c8a-abe4-9e97c1ebf648,2ade7845-a828-4864-835f-7063a48cf3cc,66609.543,netbanking,upi_timeout,2026-08-29 21:16:18.966689,failed
+153dd74b-fb5e-40e9-ad8a-0f70dac962fa,2ade7845-a828-4864-835f-7063a48cf3cc,84073.814,netbanking,insufficient_funds,2026-08-29 21:16:18.966692,failed
+2b518ab8-4a2f-4c3d-9fb5-3940d240de1e,63d7c4a5-cad1-46a4-88fb-95f5c5e9fcb2,55319.067,upi,insufficient_funds,2026-08-29 21:16:18.966724,failed
+57253ad8-32e7-404a-860e-c813fc1bcd26,31068133-5733-44e6-ace7-52f086b818a6,66765.622,netbanking,insufficient_funds,2026-08-29 21:16:18.966738,failed
+ccee3518-14cf-4a89-abf3-a3bf92dc9079,31068133-5733-44e6-ace7-52f086b818a6,92257.488,netbanking,insufficient_funds,2026-08-29 21:16:18.966741,failed
+756189ed-86af-4504-91b8-852fee1347a8,3fad5dfb-d323-4cfe-ad29-44aedbfa1050,7672.362,card,upi_timeout,2026-08-29 21:16:18.966762,failed
+04fc24bb-79c2-4745-a570-816794a4a92b,3fad5dfb-d323-4cfe-ad29-44aedbfa1050,80720.576,card,insufficient_funds,2026-08-29 21:16:18.966764,failed
+bfc2c82a-4415-4620-9595-a15fdbb97b36,3fad5dfb-d323-4cfe-ad29-44aedbfa1050,37747.682,card,upi_timeout,2026-08-29 21:16:18.966767,failed
+9dd665d5-2152-4892-8d65-bb381c34b0f5,3fad5dfb-d323-4cfe-ad29-44aedbfa1050,18145.059,card,insufficient_funds,2026-08-29 21:16:18.966770,failed
